@@ -1,0 +1,25 @@
+
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# IDE and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Dataset and generated files
+*.mp4
+*.avi
+*.mov
+yawdd_features*.csv
+features.csv
+driveguard_sequences.npz
+DriveGuard1.zip
+
+# Temporary files
+*.log
+.ipynb_checkpoints/
+DriveGuard_1.zip
